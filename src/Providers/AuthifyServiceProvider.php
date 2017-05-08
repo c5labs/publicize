@@ -18,6 +18,7 @@ use View;
 use Database;
 use Log;
 use URL;
+use Exception;
 
 defined('C5_EXECUTE') or die('Access Denied.');
 
